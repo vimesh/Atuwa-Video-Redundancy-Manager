@@ -46,8 +46,7 @@ namespace atuwa
             {
 
             }
-            //C:\Program Files\mongodbDatabase\bin
-
+           
             String filePath = string.Format("\"{0}\"", "C:\\Atuwa\\mongodbDatabase\\bin\\mongod.exe");
             String argPath = string.Format("\"{0}\"", "C:\\Atuwa\\mongodbDatabase");
             Process p = new Process();
