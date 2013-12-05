@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace atuwa
 {
-    public partial class FormAbout : Form
+    public partial class FormAbout : Form 
     {
         public FormAbout()
         {
